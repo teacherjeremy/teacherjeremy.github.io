@@ -17,7 +17,7 @@ export default class HormoneFunction extends BaseScene {
 
     resources.estrogenReceptor = new Receptor(
       this,
-      750.1,
+      850.1,
       180.65,
       "estrogenReceptor",
       1,
@@ -25,7 +25,7 @@ export default class HormoneFunction extends BaseScene {
     );
     resources.testosteroneReceptor = new Receptor(
       this,
-      750.5,
+      850.5,
       388.1,
       "testosteroneReceptor",
       1,
