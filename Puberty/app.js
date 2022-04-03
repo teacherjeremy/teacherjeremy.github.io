@@ -19,7 +19,7 @@ import RSGame2 from "./rsGame/js/rsGame2.js";
 import MaleExternal from "./External/js/maleExternal.js";
 import FemaleExternal from "./External/js/femaleExternal.js";
 import Emotions from "./Emotions/js/emotions.js";
-import HormoneFunction from "./Puberty/Hormones/js/hormoneFunction.js";
+import HormoneFunction from "./Hormones/js/hormoneFunction.js";
 
 var setup = new Setup();
 
