@@ -9,7 +9,6 @@ export default class EmotionsStrings {
       'Being sad sometimes',
       'Discovering who you are',
       'New likes and dislikes',
-      'Sexuality',
       'Expressing yourself',
       'More self confident',
       'More unsure of yourself',
