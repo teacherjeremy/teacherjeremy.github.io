@@ -22,9 +22,9 @@ export default class EmotionsStrings {
       [
         "\nQ: What do I do about a crush?\n\nA: Crushes can be intense. You might find yourself constantly thinking about a person. It could be about someone you know, like a classmate, or someone you don't know, like a celebrity. It could even be an adult. If it's someone like a celebrity or adult, it is totally okay to feel a crush, but recognize that it is just that -- a feeling. Actual intimate relationships between kids and adults are inappropriate. If it is someone you know, you can tell them you have a crush on them if you want. Just remember, you can't control how another person feels, and if they don't feel the same way, it isn't personal."
       ],
-      [
-        "\nQ: How do I figure out my sexuality?\n\nA: Sexuality is the feelings of sexual attraction you have towards other people. Some people find themselves attracted to the same sex, others the opposite sex, and some to both. You don't really get to decide, it's something fun you just sort of discover about yourself during puberty. How you decide to express your sexuality is totally up to you. Other people in your life should be supportive of you and your sexuality, and if they aren't, you will find people in life who are."
-      ],
+  //    [
+  //      "\nQ: How do I figure out my sexuality?\n\nA: Sexuality is the feelings of sexual attraction you have towards other people. Some people find themselves attracted to the same sex, others the opposite sex, and some to both. You don't really get to decide, it's something fun you just sort of discover about yourself during puberty. How you decide to express your sexuality is totally up to you. Other people in your life should be supportive of you and your sexuality, and if they aren't, you will find people in life who are."
+  //    ],
       [
         "\nQ: Some of my old friends aren't my friends anymore.\n\nA: Changing friendship is one of the biggest challenges of puberty. As you discover your identity (what you like and don't like), it will change who you want to be friends with, which is okay. You will find the group of people you like to hang out with, and if you haven't yet, you will as life continues to grow and change."
       ],
