@@ -27,13 +27,13 @@ export default class ReproductiveTitle extends BaseScene {
         text: 'Male Internal',
         nextScene: 'MRS'
       },
-/*
+
       gameButton: {
         color: '0xff4e3e',
         text: 'Game',
         nextScene: 'rsGame'
       },
-
+/*
       femaleExternalButton: {
         color: '0x9a79ff',
         text: 'Female External',
