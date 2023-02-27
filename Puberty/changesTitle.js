@@ -20,6 +20,7 @@ export default class ChangesTitle extends BaseScene {
         text: "What is\na hormone?",
         nextScene: "hormoneFunction",
       },
+      /*
       hormoneButton: {
         color: "0x3a86ff",
         text: "How does puberty begin?",
@@ -43,6 +44,7 @@ export default class ChangesTitle extends BaseScene {
         text: "Why all these new feelings?",
         nextScene: "emotions",
       },
+      */
     };
 
     new TitleScreen(this, sceneButtons, 400, 250);
