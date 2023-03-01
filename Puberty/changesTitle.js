@@ -20,13 +20,13 @@ export default class ChangesTitle extends BaseScene {
         text: "What is\na hormone?",
         nextScene: "hormoneFunction",
       },
-      /*
+      
       hormoneButton: {
         color: "0x3a86ff",
         text: "How does puberty begin?",
         nextScene: "hormones",
       },
-      
+      /*
       femaleButton: {
         color: "0x11887d",
         text: "What are the female changes?",
