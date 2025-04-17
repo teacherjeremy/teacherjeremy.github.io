@@ -21,7 +21,7 @@ export default class MainTitle extends BaseScene {
         text: "New You:\nChanges, Thoughts, and Feelings",
         nextScene: "changesTitle",
       },
-      
+      /*
       reproductiveButton: {
         color: '0x00cc34',
         text: 'The Reproductive System',
@@ -33,13 +33,13 @@ export default class MainTitle extends BaseScene {
         text: 'All About Pregnancy & Periods',
         nextScene: 'periodTitle'
       }
-      
+      */
     };
 
     var spacing = 30;
     var width = 450;
     var height = 250;
-
+    ``;
     this.add.image(194.5, 165.25, "titleText");
 
     new TitleButton(
@@ -52,7 +52,7 @@ export default class MainTitle extends BaseScene {
       sceneButtons.changesButton.text,
       sceneButtons.changesButton.nextScene
     );
-    
+
     new TitleButton(
       this,
       this.cameras.main.width / 2 - width - spacing,
@@ -63,7 +63,7 @@ export default class MainTitle extends BaseScene {
       sceneButtons.reproductiveButton.text,
       sceneButtons.reproductiveButton.nextScene
     );
-    
+
     new TitleButton(
       this,
       this.cameras.main.width / 2 + spacing,
@@ -74,6 +74,5 @@ export default class MainTitle extends BaseScene {
       sceneButtons.periodButton.text,
       sceneButtons.periodButton.nextScene
     );
-    
   }
 }
