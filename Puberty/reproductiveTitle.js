@@ -30,19 +30,18 @@ export default class ReproductiveTitle extends BaseScene {
         text: "Game",
         nextScene: "rsGame",
       },
-      /*
+
       femaleExternalButton: {
-        color: '0x9a79ff',
-        text: 'Female External',
-        nextScene: 'femaleExternal'
+        color: "0x9a79ff",
+        text: "Female External",
+        nextScene: "femaleExternal",
       },
 
       maleExternalButton: {
-        color: '0xffa70f',
-        text: 'Male External',
-        nextScene: 'maleExternal'
+        color: "0xffa70f",
+        text: "Male External",
+        nextScene: "maleExternal",
       },
-      */
     };
 
     new TitleScreen(this, sceneButtons, 375, 250);
