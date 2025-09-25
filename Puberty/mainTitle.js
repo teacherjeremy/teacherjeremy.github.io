@@ -21,7 +21,7 @@ export default class MainTitle extends BaseScene {
         text: "New You:\nChanges, Thoughts, and Feelings",
         nextScene: "changesTitle",
       },
-/*
+
       reproductiveButton: {
         color: "0x00cc34",
         text: "The Reproductive System",
@@ -34,7 +34,7 @@ export default class MainTitle extends BaseScene {
         nextScene: "periodTitle",
       },
 
-      */
+      
     };
 
     var spacing = 30;
@@ -53,7 +53,7 @@ export default class MainTitle extends BaseScene {
       sceneButtons.changesButton.text,
       sceneButtons.changesButton.nextScene
     );
-
+/*
     new TitleButton(
       this,
       this.cameras.main.width / 2 - width - spacing,
@@ -75,5 +75,7 @@ export default class MainTitle extends BaseScene {
       sceneButtons.periodButton.text,
       sceneButtons.periodButton.nextScene
     );
+    */
   }
+  
 }
