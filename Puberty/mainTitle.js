@@ -53,7 +53,7 @@ export default class MainTitle extends BaseScene {
       sceneButtons.changesButton.text,
       sceneButtons.changesButton.nextScene
     );
-/*
+
     new TitleButton(
       this,
       this.cameras.main.width / 2 - width - spacing,
@@ -75,7 +75,7 @@ export default class MainTitle extends BaseScene {
       sceneButtons.periodButton.text,
       sceneButtons.periodButton.nextScene
     );
- */   
+    
   }
   
 }
