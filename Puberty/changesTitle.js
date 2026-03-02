@@ -26,7 +26,7 @@ export default class ChangesTitle extends BaseScene {
         text: "How does puberty begin?",
         nextScene: "hormones",
       },
-      
+      /*
       femaleButton: {
         color: "0x11887d",
         text: "What are the female changes?",
@@ -38,7 +38,7 @@ export default class ChangesTitle extends BaseScene {
         text: "What are the male changes?",
         nextScene: "maleChanges",
       },
-
+*/
       emotionsButton: {
         color: "0xefa929",
         text: "Why all these new feelings?",
